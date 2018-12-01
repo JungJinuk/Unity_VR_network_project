@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VR Meeting", "Assembly-CSharp.csproj", "{3C9D6522-7F2C-807F-EF51-A46EA81679DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VR Meeting", "Assembly-CSharp-Editor.csproj", "{179E1DE6-D156-72CC-D659-539F3D60AFC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C9D6522-7F2C-807F-EF51-A46EA81679DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C9D6522-7F2C-807F-EF51-A46EA81679DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C9D6522-7F2C-807F-EF51-A46EA81679DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C9D6522-7F2C-807F-EF51-A46EA81679DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{179E1DE6-D156-72CC-D659-539F3D60AFC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{179E1DE6-D156-72CC-D659-539F3D60AFC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{179E1DE6-D156-72CC-D659-539F3D60AFC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{179E1DE6-D156-72CC-D659-539F3D60AFC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
